@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_course"
+        android:icon="@mipmap/main_course_icon"
+        android:title="@string/title_course" />
+
+    <item
+        android:id="@+id/navigation_exercises"
+        android:icon="@mipmap/main_exercises_icon"
+        android:title="@string/title_exercises" />
+
+    <item
+        android:id="@+id/navigation_my"
+        android:icon="@mipmap/main_my_icon"
+        android:title="@string/title_my" />
+
+</menu>
